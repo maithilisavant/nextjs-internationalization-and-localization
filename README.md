@@ -1,0 +1,1 @@
+# nextjs-internationalization-and-localization
