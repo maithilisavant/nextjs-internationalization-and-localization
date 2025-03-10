@@ -1,0 +1,10 @@
+{
+    "title": "Welcome to Our Website",
+    "description": "This is a simple example of internationalization in Next.js",
+    "greeting": "Hello, {name}!",
+    "about": {
+      "company": "Our Company",
+      "description": "We are a global technology company"
+    },
+    "switchLanguage": "Switch to Spanish"
+  }
